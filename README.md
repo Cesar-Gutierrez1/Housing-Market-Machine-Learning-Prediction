@@ -1,0 +1,1 @@
+This project aimed to predict house sale prices using the Ames Housing dataset and the XGBoost regression model. The dataset includes over 1,400 observations with 80+ features describing property characteristics such as size, quality, and location.
